@@ -10,14 +10,14 @@
 
 
 <img src="\_OUTPUTS\pcb_v1.png" >
-<img src="\_OUTPUTS\pcb_v1_1" >
-<img src="\_OUTPUTS\pcb_v1_2" >
+<img src="\_OUTPUTS\pcb_v1_1.png" >
+<img src="\_OUTPUTS\pcb_v1_2.png" >
 
 
 ###  SuperMegaPCB_v2
-<img src="\_OUTPUTS\pcb_v2.png" >
-<img src="\_OUTPUTS\pcb_v2_1" >
-<img src="\_OUTPUTS\pcb_v2_2" >
+<img src="\_OUTPUTS\pcb_v2.png.png" >
+<img src="\_OUTPUTS\pcb_v2_1.png" >
+<img src="\_OUTPUTS\pcb_v2_2.png" >
 
 
 
